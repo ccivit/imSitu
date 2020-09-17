@@ -1,3 +1,5 @@
+Pared down wrapper version of my89's imSitu code, to be able to make it a standalone predictor using docker.
+
 # imSitu
 Suport, annotation, evaluation, and baseline files for the imSitu dataset. 
 
